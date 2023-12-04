@@ -18,8 +18,8 @@
 4. Open the project in Unity Editor.
 5. Explore the Maze Generator scene.
 
-### Running the Simulation
-1. Download the [Build folder](/build).
+### Running the Simulation(On Linux)
+1. Download the [Build folder](/builds).
 2. Run the executable file named "build1.x86_64".
 3. Explore the maze-solving simulation.
 
