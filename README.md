@@ -1,6 +1,13 @@
-# Unity 2D Maze Generator and Solver
+# SpaceBall Shooter Game (On Going)
 
-**Welcome to the Unity 2D Maze Generator project!** This Unity project is designed to generate 2D mazes using both Depth-First Search (DFS) and Backtracking algorithms. Additionally, an agent is implemented to navigate and solve the generated mazes.
+Welcome to the SpaceBall Shooter game project! This Unity-based game features smooth player movements, an intricate shooting mechanism, and dynamic maze dynamics, providing an engaging and challenging gaming experience.
+
+## Features
+
+- **Smooth Movements:** Seamlessly navigate through space with responsive player controls.
+- **Shooting Mechanism:** Enjoy an immersive shooting experience with Unity's Particle System for stunning bullet burst effects.
+- **Maze Generation:** Utilizes DFS (Depth First Search) Algorithm and Backtracking Methods for randomizing the maze, ensuring a unique challenge in every playthrough.
+- **Enemy Spawner:** Introduces unpredictability by spawning enemies at random positions within the maze, adding strategic challenges to the gameplay.
 
 ## Getting Started
 
@@ -11,25 +18,15 @@
 ### Running the Project in Unity Editor
 1. Clone the repository to your local machine using the following command:
     ```bash
-    git clone https://github.com/your-username/unity-2d-maze-generator.git
+    git clone https://github.com/your-username/spaceball-shooter-game.git
     ```
 2. Open Unity Hub.
 3. Add the downloaded project folder to Unity Hub.
 4. Open the project in Unity Editor.
-5. Explore the Maze Generator scene.
+5. Explore the exciting features in the game.
 
-### Running the Simulation(On Linux)
-1. Download the [Builds folder](/builds).
-2. Run the executable file named "build1.x86_64".
-3. Explore the maze-solving simulation.
+## Contribution Guidelines
 
-## Features
-- **Maze Generation:** Utilizes DFS and Backtracking algorithms to create intriguing 2D mazes.
-- **Maze Solving:** An agent is implemented to solve the generated mazes.
-- **Simulation:** Experience the maze-solving process in the standalone build.
+Feel free to contribute to the project by forking the repository and submitting pull requests. Whether it's bug fixes, new features, or optimizations, your contributions are highly welcome!
 
-## Contributing
-Feel free to contribute to the project by forking the repository and submitting pull requests. Any suggestions and improvements are welcome!
-
-## License
-This project is licensed under the [MIT License](LICENSE).
+Happy gaming!
